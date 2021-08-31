@@ -18,7 +18,7 @@ You can then copy custom password with the copy button
 This is the [link](file:///Users/carlojoshuaserame/passgenerator/index.html) to the application.
 
 
-![](assets/screenshotPassGen.png)
+![](assets/PasswordGen.gif)
 
 
 ## License
